@@ -1,6 +1,6 @@
 # Dolphin Image Detection (Yolo)
 
-This repository is dedicated to the detection of dolphins in camera images. It consists of two folders:
+Part of the work i did at Biology institute of ENS-PSL, this repository is dedicated to the detection of dolphins in camera images. It consists of two folders:
 
 1. Variance based with thresholding methods (unsuccessful) : 
     This folder contains the code for variance-based detection of dolphins in images. It utilizes variance-based algorithms to identify regions of interest that are likely to contain dolphins. However, this approach was not successful in achieving satisfactory results. The code includes various techniques such as adaptive thresholding, morphological operations, and contour detection.
